@@ -2,7 +2,7 @@
 - Previously working with computer-aided designed softwares(Archicad, Autocad).
 - Experienced with 3d-modeling and real-time rendering in Epicgames.
 - I’m currently learning coding in Hive Helsinki
-- Laugueges learning so far: python, c.
+- Laugueges learned so far: python, c.
 - Reach my email: yuxin.29.wu@gmail.com
 
 <!---
