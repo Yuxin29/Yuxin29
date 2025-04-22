@@ -1,7 +1,7 @@
 - Hi, I’m @Yuxin29
-- Previously working with computer-aided designed softwares(Archicad, Autocad).
-- Experienced with 3d-modeling and real-time rendering in Epicgames.
-- I’m currently learning coding in Hive Helsinki
+- 10 years+ working with computer-aided designed softwares(Archicad, Autocad,Revit).
+- Experienced with 3d-modeling(3dmax, Rhino...) and real-time rendering with Epicgames.
+- Currently learning coding in Hive Helsinki
 - Laugueges learned so far: python, c.
 - Reach my email: yuxin.29.wu@gmail.com
 
