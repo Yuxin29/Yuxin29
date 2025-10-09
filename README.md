@@ -1,5 +1,5 @@
 - Hi, I’m @Yuxin29
-- Working with computer-aided designed softwares(Archicad, Autocad,Revit).
+- Working with computer-aided designed softwares(Archicad, Autocad, Rhino).
 - Learning coding in Hive Helsinki
 - Laugueges learned/learning so far: python, c, c++.
 - Reach my email: yuxin.29.wu@gmail.com
