@@ -1,12 +1,23 @@
-- Hi, I’m @Yuxin29
-- Working with computer-aided designed softwares: Archicad, Autocad, Rhino.
-- Learning coding in Hive Helsinki: python, c, c++.
-- Reach my email: yuxin.29.wu@gmail.com
-
 <!---
 Yuxin29/Yuxin29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+About
+  Hi, I’m @Yuxin29
+💻 I’m an architect with 5+ years of experience transitioning into software engineering, bringing a unique combination of design thinking, technical problem-solving and a strong foundation in programming.
+
+🚀 I’ve built my coding skills in C, C++ and Python at Hive Helsinki, focusing on algorithms, data structures, and clean coding habits. I’m now diving deeper into full-stack development, learning how to build scalable, user-focused applications.
+
+My background in architecture design and project management trained me to:
+- 🧠 Approach problems systematically and creatively with clean code structure.
+- 🤝 Collaborate across disciplines and communicate clearly with diverse teams and clients.
+- 📐 Working in complex projects with precision and attention to detail.
+
+As I grow as a software engineer, I’m eager to apply this mindset to real-world tech problems. I’m currently seeking a Summer Job in Software Engineering in 2026.
+Reach my email: yuxin.29.wu@gmail.c
+
+✨ Always building. Always learning.
 
 ## 📊 My Most Used Languages
 
