@@ -17,7 +17,7 @@ My background in architecture design and project management trained me to:
 🌍 I have a strong interest in maps, GIS technologies, and urban data. My focus is on creating applications that make spatial information meaningful and interactive.
 Key areas I’m interested in:
 - Scalable solutions: from neighborhood-level to city-scale applications
-- Extensible data layers: such as housing prices, renovation records, accessibility, and infrastructure information
+- Extensible data layers: such as renovation records, accessibility, and infrastructure information
 - User interaction: enabling dynamic, user-contributed data
 - Technical integration: full-stack development, GIS, and data visualization
 This reflects my passion for bridging technology and city systems to build tools that enhance how people understand and interact with urban spaces.
