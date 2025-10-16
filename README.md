@@ -20,6 +20,7 @@ Key areas I’m interested in:
 - Extensible data layers: such as renovation records, accessibility, and infrastructure information
 - User interaction: enabling dynamic, user-contributed data
 - Technical integration: full-stack development, GIS, and data visualization
+  
 This reflects my passion for bridging technology and city systems to build tools that enhance how people understand and interact with urban spaces.
 
 As I grow as a software engineer, I’m eager to apply this mindset to real-world tech problems. I’m currently seeking a Summer Job in Software Engineering in 2026.
