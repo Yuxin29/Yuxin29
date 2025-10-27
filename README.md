@@ -24,3 +24,5 @@ Reach me by email: yuxin.29.wu@gmail.c
 ## 📊 My Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuxin29&layout=compact&v=1)
+
+[Download my CV](CV.pdf)
