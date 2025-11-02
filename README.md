@@ -10,9 +10,9 @@ Hi, I’m @Yuxin29
 🚀 I’ve built my coding skills in C, C++ and Python at Hive Helsinki, focusing on algorithms, data structures, and clean coding habits. I’m now diving deeper into full-stack development, learning how to build scalable, user-focused applications.
 
 My background in architecture design and project management trained me to:
-- 🧠 Approach problems systematically and creatively with clean code structure.
-- 🤝 Collaborate across disciplines and communicate clearly with diverse teams and clients.
-- 📐 Working in complex projects with precision and attention to detail.
+- Approach problems systematically and creatively with clean code structure.
+- Collaborate across disciplines and communicate clearly with diverse teams and clients.
+- Working in complex projects with precision and attention to detail.
 
 🌍 I have a strong interest in mapping, GIS and urban datas. My focus is on creating applications that make spatial information meaningful and interactive.
 
