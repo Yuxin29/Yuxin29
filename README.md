@@ -14,8 +14,6 @@ My background in architecture design and project management trained me to:
 - Collaborate across disciplines and communicate clearly with diverse teams and clients.
 - Working in complex projects with precision and attention to detail.
 
-🌍 I have a strong interest in mapping, urban datas and full-stack development. My focus is on creating applications that make spatial information meaningful and interactive.
-
 As I grow as a software engineer, I’m eager to apply this mindset to real-world tech problems. Currently I’m seeking a summer job in Software Engineering in 2026.
 Reach me by email: yuxin.29.wu@gmail.c
 
