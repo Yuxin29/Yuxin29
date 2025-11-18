@@ -17,6 +17,8 @@ My background in architecture design and project management trained me to:
 As I grow as a software engineer, I’m eager to apply this mindset to real-world tech problems. Currently I’m seeking a summer job in Software Engineering in 2026.
 Reach me by email: yuxin.29.wu@gmail.c
 
+About Hive Helsinki: https://www.hive.fi/about-hive/
+
 ✨ Always building. Always learning.
 
 ## 📊 My Most Used Languages
