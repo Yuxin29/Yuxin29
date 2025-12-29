@@ -36,7 +36,7 @@ About Hive Helsinki: https://www.hive.fi/about-hive/
 
 | Category | Project | Learning Outcomes |
 |----------|---------|-----------------|
-| Core C | libft | Reimplementation of the standard C library functions from scratch |
+| Core C | [libft](https://github.com/Yuxin29/Mini_C_Library/tree/main/libft_0) | Reimplementation of the standard C library functions from scratch |
 |        | get_next_line | A function to get lines one by one from a file and remember previous reads |
 |        | ft_printf | Reimplementation of the standard C function printf |
 | Graphics | so_long | 2D game to learn about event handling and game loop architecture |
