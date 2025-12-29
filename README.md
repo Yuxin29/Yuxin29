@@ -22,15 +22,13 @@ About Hive Helsinki: https://www.hive.fi/about-hive/
 ✨ Always building. Always learning.
 
 ## Web-development
-
-| Project | Description |
-|---------|-------------|
-| **Personal Portfolia** | A personal portfolio website built with JavaScript to showcase projects and professional experience. Features responsive design and interactive elements. |
-
-## 42 School Projects
-
 | Category | Project | Learning Outcomes |
 |----------|---------|-----------------|
+| Full-stack    | [Portfolio page](https://github.com/Yuxin29/Mini_C_Library/tree/main/libft_0)                | A personal portfolio website built with JavaScript to showcase projects and professional experience. |
+
+## 42 School Projects
+| Category   | Project                                                                             | Learning Outcomes |
+|----------  |---------                                                                            |-----------------|
 | Core C     | [libft](https://github.com/Yuxin29/Mini_C_Library/tree/main/libft_0)                | Reimplementation of the standard C library functions from scratch |
 |            | [get_next_line](https://github.com/Yuxin29/Mini_C_Library/tree/main/Get_next_line)  | A function to get lines one by one from a file and remember previous reads |
 |            | [ft_printf](https://github.com/Yuxin29/Mini_C_Library/tree/main/Ft_printf)          | Reimplementation of the standard C function printf |
