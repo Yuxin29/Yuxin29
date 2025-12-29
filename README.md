@@ -32,17 +32,17 @@ About Hive Helsinki: https://www.hive.fi/about-hive/
 | Core C     | [libft](https://github.com/Yuxin29/Mini_C_Library/tree/main/libft_0)                | Reimplementation of the standard C library functions from scratch |
 |            | [get_next_line](https://github.com/Yuxin29/Mini_C_Library/tree/main/Get_next_line)  | A function to get lines one by one from a file and remember previous reads |
 |            | [ft_printf](https://github.com/Yuxin29/Mini_C_Library/tree/main/Ft_printf)          | Reimplementation of the standard C function printf |
-| Algorithms | [push_swap](https://github.com/Yuxin29/RadixSort-PushSwap)                          | Developed efficient sorting algorithms and stack manipulation |
+| Algorithms | [RadixSort-PushSwap](https://github.com/Yuxin29/RadixSort-PushSwap)                 | Developed efficient sorting algorithms and stack manipulation |
 | System     | [pipex](https://github.com/Yuxin29/Pipex)                                           | Replicated pipe behavior in C, learning about file descriptors |
 |            | [philosophers](https://github.com/Yuxin29/Philosophers)                             | Dining philosophers, mastering thread synchronization and deadlock prevention |
 |            | [minishell](https://github.com/Yuxin29/minishell)                                   | Built a shell taking bash as reference |
 |            | inception (onging)                                                                  | Learned Docker, containerization, and system administration |
-| C++        | [CPP Modules](https://github.com/Yuxin29/RadixSort-PushSwap)   | Transition to OOP principles and fundamentals |
-| Backend    | webserver | Implemented concurrent IRC server handling multiple client connections |
-| Web Dev    | Transcendence | Full Stack web project where you can play Pong in a tournament |
-| Graphics   | so_long | 2D game to learn about event handling and game loop architecture |
-|            | miniRT | Implemented raycasting technique and recreated a Wolfenstein 3D-like game |
-| Networking | net_practice | Hands-on TCP/IP networking and subnet configuration |
+| C++        | [CPP Modules](https://github.com/Yuxin29/cpp-modulars)                              | Transition to OOP principles and fundamentals |
+| Backend    | [webserver](https://github.com/Yuxin29/Webserver)                                   | A lightweight HTTP/1.1 web server written in C++. |
+| Web Dev    | Transcendence (onging)                                                              | Full Stack web project where you can play Pong in a tournament |
+| Graphics   | [so_long](https://github.com/Yuxin29/Solong)                                        | 2D game to learn about event handling and game loop architecture |
+|            | [MiniRayTracer](https://github.com/Yuxin29/MiniRayTracer)                           | Implemented raycasting technique and recreated a Wolfenstein 3D-like game |
+| Networking | [Netpractice](https://github.com/Yuxin29/Netpractice)                               | Hands-on TCP/IP networking and subnet configuration |
 
 
 ## 📊 My Most Used Languages
