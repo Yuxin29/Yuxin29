@@ -21,20 +21,24 @@ About Hive Helsinki: https://www.hive.fi/about-hive/
 
 ✨ Always building. Always learning.
 
-## Projects
+## Web-development
 
 | Project | Description |
 |---------|-------------|
 | **Personal Portfolia** | A personal portfolio website built with JavaScript to showcase projects and professional experience. Features responsive design and interactive elements. |
-| **StudentAtPace42** | Tracks which students are behind the expected 18-month roadmap at Hive Helsinki. |
+
+## Python
+| Project | Description |
+|---------|-------------|
+| **CoinCollector** | A Python program/game where the player collects coins or items in a simulated environment. |
 
 ## 42 School Projects
 
 | Category | Project | Learning Outcomes |
 |----------|---------|-----------------|
-| Core C | libft | Reimplementation of the standard C library functions from scratch |
+|        | libft | Reimplementation of the standard C library functions from scratch |
 | Core C | get_next_line | A function to get lines one by one from a file and remember previous reads |
-| Core C | ft_printf | Reimplementation of the standard C function printf |
+|        | ft_printf | Reimplementation of the standard C function printf |
 | Graphics | so_long | 2D game to learn about event handling and game loop architecture |
 | Graphics | cub3D | Implemented raycasting technique and recreated a Wolfenstein 3D-like game |
 | System | pipex | Replicated pipe behavior in C, learning about file descriptors |
