@@ -27,11 +27,6 @@ About Hive Helsinki: https://www.hive.fi/about-hive/
 |---------|-------------|
 | **Personal Portfolia** | A personal portfolio website built with JavaScript to showcase projects and professional experience. Features responsive design and interactive elements. |
 
-## Python
-| Project | Description |
-|---------|-------------|
-| **CoinCollector** | A Python program/game where the player collects coins or items in a simulated environment. |
-
 ## 42 School Projects
 
 | Category | Project | Learning Outcomes |
