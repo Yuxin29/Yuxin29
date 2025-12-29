@@ -22,9 +22,9 @@ About Hive Helsinki: https://www.hive.fi/about-hive/
 ✨ Always building. Always learning.
 
 ## Web-development
-| Category | Project | Learning Outcomes |
-|----------|---------|-----------------|
-| Full-stack    | [Portfolio page](https://github.com/Yuxin29/Mini_C_Library/tree/main/libft_0)                | A personal portfolio website built with JavaScript to showcase projects and professional experience. |
+| Category   | Project                                                                             | Learning Outcomes |
+|----------  |---------                                                                            |-----------------|
+| Full-stack | [Portfolio page](https://www.yuxinwu.eu/)                                           | A personal portfolio website built with JavaScript to showcase projects and professional experience. |
 
 ## 42 School Projects
 | Category   | Project                                                                             | Learning Outcomes |
