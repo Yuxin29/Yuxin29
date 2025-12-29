@@ -36,24 +36,20 @@ About Hive Helsinki: https://www.hive.fi/about-hive/
 
 | Category | Project | Learning Outcomes |
 |----------|---------|-----------------|
-| Core C | [libft](https://github.com/Yuxin29/Mini_C_Library/tree/main/libft_0) | Reimplementation of the standard C library functions from scratch |
-|        | get_next_line | A function to get lines one by one from a file and remember previous reads |
-|        | ft_printf | Reimplementation of the standard C function printf |
-
+| Core C     | [libft](https://github.com/Yuxin29/Mini_C_Library/tree/main/libft_0) | Reimplementation of the standard C library functions from scratch |
+|            | get_next_line | A function to get lines one by one from a file and remember previous reads |
+|            | ft_printf | Reimplementation of the standard C function printf |
 | Algorithms | push_swap | Developed efficient sorting algorithms and stack manipulation |
-| System | pipex | Replicated pipe behavior in C, learning about file descriptors |
-|        | philosophers | Dining philosophers problem, mastering thread synchronization and deadlock prevention |
-|        | minishell | Built a shell taking bash as reference |
-|        | inception | Learned Docker, containerization, and system administration |
-
-| Graphics | so_long | 2D game to learn about event handling and game loop architecture |
-|          | cub3D | Implemented raycasting technique and recreated a Wolfenstein 3D-like game |
-
+| System     | pipex | Replicated pipe behavior in C, learning about file descriptors |
+|            | philosophers | Dining philosophers problem, mastering thread synchronization and deadlock prevention |
+|            | minishell | Built a shell taking bash as reference |
+|            | inception | Learned Docker, containerization, and system administration |
+| C++        | CPP Modules | Transition to OOP principles and fundamentals |
+| Backend    | webserver | Implemented concurrent IRC server handling multiple client connections |
+| Web Dev    | Transcendence | Full Stack web project where you can play Pong in a tournament |
+| Graphics   | so_long | 2D game to learn about event handling and game loop architecture |
+|            | miniRT | Implemented raycasting technique and recreated a Wolfenstein 3D-like game |
 | Networking | net_practice | Hands-on TCP/IP networking and subnet configuration |
-|        | ft_irc | Implemented concurrent IRC server handling multiple client connections |
-
-| C++ | CPP Modules | Transition to OOP principles and fundamentals |
-| Web Dev | Transcendence | Full Stack web project where you can play Pong in a tournament |
 
 
 ## 📊 My Most Used Languages
