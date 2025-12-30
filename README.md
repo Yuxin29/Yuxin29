@@ -34,15 +34,15 @@ About Hive Helsinki: https://www.hive.fi/about-hive/
 |            | [Ft_printf](https://github.com/Yuxin29/Mini_C_Library/tree/main/Ft_printf)          | Reimplementation of the standard C function printf |
 | C++        | [CPP Modules](https://github.com/Yuxin29/cpp-modulars)                              | Transition to OOP principles and fundamentals |
 | Algorithms | [RadixSort-PushSwap](https://github.com/Yuxin29/RadixSort-PushSwap)                 | Developed efficient sorting algorithms and stack manipulation |
+| Graphics   | [Solong](https://github.com/Yuxin29/Solong)                                        | 2D game to learn about event handling and game loop architecture |
+|            | [MiniRayTracer](https://github.com/Yuxin29/MiniRayTracer)                           | Implemented raycasting technique and recreated a Wolfenstein 3D-like game |
+| Networking | [Netpractice](https://github.com/Yuxin29/Netpractice)                               | Hands-on TCP/IP networking and subnet configuration |
 | System     | [Pipex](https://github.com/Yuxin29/Pipex)                                           | Replicated pipe behavior in C, learning about file descriptors |
 |            | [Dining Philosophers](https://github.com/Yuxin29/Philosophers)                             | Dining philosophers, mastering thread synchronization and deadlock prevention |
 |            | [Minishell](https://github.com/Yuxin29/minishell)                                   | Built a shell taking bash as reference |
 |            | inception (onging)                                                                  | Learned Docker, containerization, and system administration |
 | Backend    | [Webserver](https://github.com/Yuxin29/Webserver)                                   | A lightweight HTTP/1.1 web server written in C++. |
 | Web Dev    | Transcendence (onging)                                                              | Full Stack web project where you can play Pong in a tournament |
-| Graphics   | [Solong](https://github.com/Yuxin29/Solong)                                        | 2D game to learn about event handling and game loop architecture |
-|            | [MiniRayTracer](https://github.com/Yuxin29/MiniRayTracer)                           | Implemented raycasting technique and recreated a Wolfenstein 3D-like game |
-| Networking | [Netpractice](https://github.com/Yuxin29/Netpractice)                               | Hands-on TCP/IP networking and subnet configuration |
 
 
 ## 📊 My Most Used Languages
