@@ -29,18 +29,18 @@ About Hive Helsinki: https://www.hive.fi/about-hive/
 ## 42 School Projects
 | Category   | Project                                                                             | Learning Outcomes |
 |----------  |---------                                                                            |-----------------|
-| Core C     | [libft](https://github.com/Yuxin29/Mini_C_Library/tree/main/libft_0)                | Reimplementation of the standard C library functions from scratch |
-|            | [get_next_line](https://github.com/Yuxin29/Mini_C_Library/tree/main/Get_next_line)  | A function to get lines one by one from a file and remember previous reads |
-|            | [ft_printf](https://github.com/Yuxin29/Mini_C_Library/tree/main/Ft_printf)          | Reimplementation of the standard C function printf |
-| Algorithms | [RadixSort-PushSwap](https://github.com/Yuxin29/RadixSort-PushSwap)                 | Developed efficient sorting algorithms and stack manipulation |
-| System     | [pipex](https://github.com/Yuxin29/Pipex)                                           | Replicated pipe behavior in C, learning about file descriptors |
-|            | [philosophers](https://github.com/Yuxin29/Philosophers)                             | Dining philosophers, mastering thread synchronization and deadlock prevention |
-|            | [minishell](https://github.com/Yuxin29/minishell)                                   | Built a shell taking bash as reference |
-|            | inception (onging)                                                                  | Learned Docker, containerization, and system administration |
+| Core C     | [Libft](https://github.com/Yuxin29/Mini_C_Library/tree/main/libft_0)                | Reimplementation of the standard C library functions from scratch |
+|            | [Get_next_line](https://github.com/Yuxin29/Mini_C_Library/tree/main/Get_next_line)  | A function to get lines one by one from a file and remember previous reads |
+|            | [Ft_printf](https://github.com/Yuxin29/Mini_C_Library/tree/main/Ft_printf)          | Reimplementation of the standard C function printf |
 | C++        | [CPP Modules](https://github.com/Yuxin29/cpp-modulars)                              | Transition to OOP principles and fundamentals |
-| Backend    | [webserver](https://github.com/Yuxin29/Webserver)                                   | A lightweight HTTP/1.1 web server written in C++. |
+| Algorithms | [RadixSort-PushSwap](https://github.com/Yuxin29/RadixSort-PushSwap)                 | Developed efficient sorting algorithms and stack manipulation |
+| System     | [Pipex](https://github.com/Yuxin29/Pipex)                                           | Replicated pipe behavior in C, learning about file descriptors |
+|            | [Dining Philosophers](https://github.com/Yuxin29/Philosophers)                             | Dining philosophers, mastering thread synchronization and deadlock prevention |
+|            | [Minishell](https://github.com/Yuxin29/minishell)                                   | Built a shell taking bash as reference |
+|            | inception (onging)                                                                  | Learned Docker, containerization, and system administration |
+| Backend    | [Webserver](https://github.com/Yuxin29/Webserver)                                   | A lightweight HTTP/1.1 web server written in C++. |
 | Web Dev    | Transcendence (onging)                                                              | Full Stack web project where you can play Pong in a tournament |
-| Graphics   | [so_long](https://github.com/Yuxin29/Solong)                                        | 2D game to learn about event handling and game loop architecture |
+| Graphics   | [Solong](https://github.com/Yuxin29/Solong)                                        | 2D game to learn about event handling and game loop architecture |
 |            | [MiniRayTracer](https://github.com/Yuxin29/MiniRayTracer)                           | Implemented raycasting technique and recreated a Wolfenstein 3D-like game |
 | Networking | [Netpractice](https://github.com/Yuxin29/Netpractice)                               | Hands-on TCP/IP networking and subnet configuration |
 
