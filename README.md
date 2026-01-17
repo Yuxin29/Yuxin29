@@ -45,4 +45,4 @@ About Hive Helsinki: https://www.hive.fi/about-hive/
 
 
 ## 📊 My Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuxin29&langs_count=5&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuxin29&layout=compact&theme=radical)
