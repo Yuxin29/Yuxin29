@@ -13,7 +13,7 @@ My background in architecture design and project management trained me to:
 - Collaborate across disciplines and communicate clearly with diverse teams and clients.
 - Working in complex projects with precision and attention to detail.
 
-As I grow as a software engineer, I’m eager to apply this mindset to real-world tech problems.
+As I grow into a software engineer, I’m eager to apply this mindset to real-world tech problems.
 Reach me by email: yuxin.29.wu@gmail.c
 
 About Hive Helsinki: https://www.hive.fi/about-hive/
