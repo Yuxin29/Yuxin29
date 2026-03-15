@@ -4,6 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Hello world, I’m Yuxin Wu
+
 💻 I’m an architect with 5+ years of experience, transitioning into software engineering, bringing a unique combination of design thinking, technical problem-solving and a strong foundation in programming.
 
 🚀 I’ve built my coding skills in C, C++ and Python at Hive Helsinki, focusing on algorithms, data structures, and clean coding habits. I’m now diving deeper into full-stack development, learning how to build scalable, user-focused applications.
