@@ -14,7 +14,7 @@ My background in architecture design and project management trained me to:
 - Collaborate across disciplines and communicate clearly with diverse teams and clients.
 - Working in complex projects with precision and attention to detail.
 
-As I grow into a software engineer, I’m eager to apply this mindset to real-world tech problems.
+Currently working on Rhino3d extensions, draining in Rhino C++ APIs.
 Reach me by email: yuxin.29.wu@gmail.com
 
 About Hive Helsinki: https://www.hive.fi/about-hive/
