@@ -14,7 +14,7 @@ My background in architecture design and project management trained me to:
 - Collaborate across disciplines and communicate clearly with diverse teams and clients.
 - Working in complex projects with precision and attention to detail.
 
-Currently working on Rhino3d extensions, draining in Rhino C++ APIs.
+Currently working on Rhino3d ( a NURBS-based software for CAD, CAM, rapid prototyping, 3D printing and reverse engineering) extensions, drowning in Rhino C++ APIs.
 Reach me by email: yuxin.29.wu@gmail.com
 
 About Hive Helsinki: https://www.hive.fi/about-hive/
