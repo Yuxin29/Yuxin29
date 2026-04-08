@@ -3,21 +3,22 @@ Yuxin29/Yuxin29 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-Hello world, I’m Yuxin Wu
+Hello World, I’m Yuxin Wu 👋
 
-💻 I’m an architect with 5+ years of experience, transitioning into software engineering, bringing a unique combination of design thinking, technical problem-solving and a strong foundation in programming.
+💻 I’m an architect with 5+ years of experience, transitioning into software engineering, bringing a unique combination of design thinking, technical problem-solving, and a strong foundation in programming.
 
-🚀 I’ve built my coding skills in C, C++ and Python at Hive Helsinki, focusing on algorithms, data structures, and clean coding habits. I’m now diving deeper into full-stack development, learning how to build scalable, user-focused applications.
+🚀 I’ve built my coding skills in C, C++, and Python at Hive Helsinki, focusing on algorithms, data structures, and clean coding habits. I’m now diving deeper into full-stack development, learning how to build scalable, user-focused applications.
 
 My background in architecture design and project management trained me to:
-- Approach problems systematically and creatively with clean code structure.
+- Approach problems systematically and creatively, with clean code structure.
 - Collaborate across disciplines and communicate clearly with diverse teams and clients.
-- Working in complex projects with precision and attention to detail.
+- Work on complex projects with precision and attention to detail.
 
-Currently working on Rhino3d ( a NURBS-based software for CAD, CAM, rapid prototyping, 3D printing and reverse engineering) extensions, drowning in Rhino C++ APIs.
-Reach me by email: yuxin.29.wu@gmail.com
+Current Work:
+- Developing Rhino3D plugins and extensions using C++, working extensively with Rhino’s NURBS-based APIs.
+- Focused on enhancing Rhino workflows, creating tools for designers and engineers, and integrating software solutions into design pipelines.
 
-About Hive Helsinki: https://www.hive.fi/about-hive/
+📫 Reach me by email: yuxin.29.wu@gmail.com
 
 ✨ Always building. Always learning.
 
