@@ -18,8 +18,6 @@ Current Work:
 - Developing Rhino3D plugins and extensions using C++, working extensively with Rhino’s NURBS-based APIs.
 - Focused on enhancing Rhino workflows, creating tools for designers and engineers, and integrating software solutions into design pipelines.
 
-📫 Reach me by email: yuxin.29.wu@gmail.com
-
 ✨ Always building. Always learning.
 
 ## Web-development
