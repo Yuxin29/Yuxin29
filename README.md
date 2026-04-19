@@ -14,7 +14,7 @@ My background in architecture design and project management trained me to:
 - Collaborate across disciplines and communicate clearly with diverse teams and clients.
 - Work on complex projects with precision and attention to detail.
 
-Current Work:
+Currently Work with LBP development:
 - Developing Rhino3D plugins and extensions using C++, working extensively with Rhino’s NURBS-based APIs.
 - Focused on enhancing Rhino workflows, creating tools for designers and engineers, and integrating software solutions into design pipelines.
 
