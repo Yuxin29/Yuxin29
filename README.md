@@ -41,7 +41,7 @@ Currently Work at LBP development:
 |            | [Minishell](https://github.com/Yuxin29/minishell)                                   | Built a shell taking bash as reference |
 |            | [inception](https://github.com/Yuxin29/Docker-infra)                                | Learned Docker, containerization, and system administration |
 | Backend    | [Webserver](https://github.com/Yuxin29/Webserver)                                   | A lightweight HTTP/1.1 web server written in C++. |
-| Web Dev    | Transcendence (onging)                                                              | Full Stack web project where you can play Pong in a tournament |
+| Web Dev    | [transcendence](https://github.com/IbnBaqqi/transcendence)                                                           | Full Stack web project where you can play Pong in a tournament |
 
 ## 📊 My Most Used Languages
 ![Top Langs](https://github-readme-stats-iota-ecru-53.vercel.app/api/top-langs/?username=Yuxin29&layout=compact&theme=radical)
