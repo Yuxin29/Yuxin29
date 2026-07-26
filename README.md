@@ -11,7 +11,7 @@ My background in architecture design and project management trained me to:
 - Collaborate across disciplines and communicate clearly with diverse teams and clients.
 - Work on complex projects with precision and attention to detail.
 
-I built my coding skills in C, C++, and Python at Hive Helsinki, focusing on algorithms, data structures, and clean coding habits. I’m now diving deeper into full-stack development, learning how to build scalable, user-focused applications.
+I was trained at Hive Helsinki in C, C++, and Python, focusing on algorithms, data structures, and clean coding habits. 
 
 Currently working at LBP development:
 - Developing Rhino3D plugins using C++, working extensively with Rhino’s NURBS-based APIs.
