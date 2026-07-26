@@ -6,15 +6,14 @@ You can click the Preview link to take a look at your changes.
 Hello World, I’m Yuxin Wu 👋
 
 I’m an architect with 5+ years of experience, transitioned into software engineering.
-
-I’ve built my coding skills in C, C++, and Python at Hive Helsinki, focusing on algorithms, data structures, and clean coding habits. I’m now diving deeper into full-stack development, learning how to build scalable, user-focused applications.
-
 My background in architecture design and project management trained me to:
 - Approach problems systematically and creatively, with clean code structure.
 - Collaborate across disciplines and communicate clearly with diverse teams and clients.
 - Work on complex projects with precision and attention to detail.
 
-Currently Work at LBP development:
+I built my coding skills in C, C++, and Python at Hive Helsinki, focusing on algorithms, data structures, and clean coding habits. I’m now diving deeper into full-stack development, learning how to build scalable, user-focused applications.
+
+Currently working at LBP development:
 - Developing Rhino3D plugins using C++, working extensively with Rhino’s NURBS-based APIs.
 - Focusing on enhancing Rhino workflows, creating tools for designers and engineers and integrating software solutions into design pipelines.
 
