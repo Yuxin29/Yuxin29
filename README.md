@@ -14,8 +14,7 @@ My background in architecture design and project management taught me to:
 I was trained at Hive Helsinki in C, C++, and Python, focusing on algorithms, data structures, low-level system programming and clean code architecture. 
 
 Currently I am working at LBP development:
-- Developing Rhino3D plugins using C++, working extensively with Rhino’s NURBS-based APIs.
-- Focusing on enhancing Rhino workflows, creating tools for designers and engineers and integrating software solutions into design pipelines.
+- Developing a cross-platform C++ plugin for Rhino 3d plugins using C++, focusing on enhancing Rhino workflows, creating tools for designers and engineers and integrating software solutions into design pipelines.
 
 ✨ Always building. Always learning.
 
