@@ -9,7 +9,7 @@ I was an architect transitioned into software engineering. Currently I am workin
 
 Work Projects
 - Developed a cross-platform C++ plugin for Rhino 3d, focusing on enhancing Rhino workflows, creating tools for designers and engineers and integrating software solutions into design pipelines.
-- Developing Bongo.
+- Developing Bongo 3 for Rhino 3d.
   
 School Projects
 | Category   | Project                                                                             | Learning Outcomes |
