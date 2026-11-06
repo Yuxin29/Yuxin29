@@ -8,7 +8,7 @@ Hello World, I’m Yuxin Wu 👋
 I was an architect transitioned into software engineering. Currently I am working at LBP development:
 
 Work Projects
-- Developed a cross-platform C++ plugin for Rhino 3d, focusing on enhancing Rhino workflows, creating tools for designers and engineers and integrating software solutions into design pipelines.
+- Developed a non-destructive Fillet tool for rhino 3d on windows and mac
 - Developing Bongo 3 for Rhino 3d.
   
 School Projects
