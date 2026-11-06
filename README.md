@@ -10,12 +10,7 @@ Currently I am working at LBP development:
 - Developed a cross-platform C++ plugin for Rhino 3d, focusing on enhancing Rhino workflows, creating tools for designers and engineers and integrating software solutions into design pipelines.
 - Developing Bongo.
   
-## Web-development
-| Category   | Project                                                                             | Learning Outcomes |
-|----------  |---------                                                                            |-----------------|
-| Full-stack | [Portfolio page](https://www.yuxinwu.eu/)                                           | Portfolio website built with JavaScript to showcase projects and professional experience. |
-
-## 42 School Projects
+School Projects
 | Category   | Project                                                                             | Learning Outcomes |
 |----------  |---------                                                                            |-----------------|
 | Core C     | [Libft](https://github.com/Yuxin29/Mini_C_Library/tree/main/libft_0)                | Reimplementation of the standard C library functions from scratch |
