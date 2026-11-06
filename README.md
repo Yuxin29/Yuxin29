@@ -5,19 +5,16 @@ You can click the Preview link to take a look at your changes.
 
 Hello World, I’m Yuxin Wu 👋
 
-I was an architect with 5+ years of experience, transitioned into software engineering.
+I was an architect transitioned into software engineering.
 My background in architecture design and project management taught me to:
 - Approach problems systematically and creatively, with clean code structure.
 - Collaborate across disciplines and communicate clearly with diverse teams and clients.
 - Work on complex projects with precision and attention to detail.
 
-I was trained at Hive Helsinki in C, C++, and Python, focusing on algorithms, data structures, low-level system programming and clean code architecture. 
-
 Currently I am working at LBP development:
-- Developing a cross-platform C++ plugin for Rhino 3d, focusing on enhancing Rhino workflows, creating tools for designers and engineers and integrating software solutions into design pipelines.
-
-✨ Always building. Always learning.
-
+- Developed a cross-platform C++ plugin for Rhino 3d, focusing on enhancing Rhino workflows, creating tools for designers and engineers and integrating software solutions into design pipelines.
+- Developing Bongo.
+  
 ## Web-development
 | Category   | Project                                                                             | Learning Outcomes |
 |----------  |---------                                                                            |-----------------|
